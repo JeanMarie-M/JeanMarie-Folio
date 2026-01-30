@@ -733,12 +733,12 @@ section,
 }
 
 .hero .hero-visual .profile-container .profile-image {
-  position: relative;
+  /*position: relative;*/
   width: 100%;
   height: 100%;
   object-fit: cover;
   border-radius: 30px;
-  z-index: 2;
+  /*z-index: 2;*/
 }
 
 @keyframes float {
@@ -2540,6 +2540,10 @@ section,
   .service-details .related-services {
     margin-top: 30px;
   }
+}
+#email{
+  font-size: smaller;
+  text-align: left;
 }
 
 /*--------------------------------------------------------------
