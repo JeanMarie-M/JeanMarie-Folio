@@ -2545,6 +2545,15 @@ section,
   font-size: smaller;
   text-align: left;
 }
+#portrait img{
+  width:540px;
+  height:620px;
+  border-radius: 20px;
+  /*margin: auto;*/
+}
+.jean{
+  border-radius: 32px;
+}
 
 /*--------------------------------------------------------------
 # Starter Section Section
